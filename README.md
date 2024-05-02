@@ -9,10 +9,12 @@ The demand for image retrieval research has surged due to the proliferation of v
 
 ### Average Precision-Recall (APR)
 ![APR Plot](image/APR.png)
+
 This plot shows the performance of our model in terms of precision and recall across different thresholds, which is crucial for understanding the effectiveness of the retrieval system.
 
 ### Training Loss
 ![Loss Plot](image/Loss.png)
+
 The loss plot illustrates the model's learning progress over epochs, showing reductions in loss as the model better fits the data.
 
 ## Project Description
