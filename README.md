@@ -36,6 +36,3 @@ Follow these steps to set up and run the application:
 
 1. **Python Version**: Ensure you have at least Python 3.8 installed on your system.
 2. **Dataset**: Download and place the Batik Nitik 960 dataset in the same project folder.
-
-## Contributing
-Agus Eko Minarno
